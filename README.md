@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <img  src="Personal3.png">
+</div>
 
-<!--
-**0kevin4/0kevin4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hola, Soy Kevin Moreno 👋
+</h1>
 
-Here are some ideas to get you started:
+### Contacto:
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://portafolio-e7ctxwkn7-kevins-projects-a9d3077e.vercel.app/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kevin-moreno-adsi/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Lenguajes:
+<div display="flex">
+  <img src="https://img.shields.io/badge/HTML-%23e96228.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-%23efd81d.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS-%232862e9.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/PHP-%23556096.svg?&style=for-the-badge">
+  <br>
+
+  <img src="https://img.shields.io/badge/Git-%23f05639.svg?&style=for-the-badge">
+</div>
