@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/JavaScript-%23efd81d.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/CSS-%232862e9.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/PHP-%23556096.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/JAVA-%23556096.svg?&style=for-the-badge">
   <br>
 
   <img src="https://img.shields.io/badge/Git-%23f05639.svg?&style=for-the-badge">
